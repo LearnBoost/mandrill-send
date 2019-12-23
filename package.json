@@ -10,5 +10,9 @@
     "mocha": "*",
     "should": "*",
     "expect.js": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LearnBoost/mandrill-send.git"
   }
 }
